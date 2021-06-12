@@ -5,7 +5,7 @@
   },
   "dependencies": {
     "@samrobbins/typography": "^1.1.0",
-    "@tailwindcss/typography": "^0.3.1",
+    "@tailwindcss/typography": "^0.4.0",
     "autoprefixer": "^10.2.0",
     "normalize.css": "^8.0.1",
     "postcss": "^8.2.10",
